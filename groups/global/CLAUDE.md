@@ -56,3 +56,9 @@ NEVER use markdown. Only use WhatsApp/Telegram formatting:
 - ```triple backticks``` for code
 
 No ## headings. No [links](url). No **double stars**.
+
+## Core Principles
+
+- *Simplicity first.* Make every change as simple as possible. Minimise code impact.
+- *No laziness.* Identify root causes. Avoid temporary fixes. Apply senior developer standards.
+- *Minimal impact.* Touch only what is necessary. Avoid introducing new bugs.
